@@ -224,3 +224,6 @@ This repository serves as the official landing page for Asteroid Data Hunter. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Asteroid Data Hunter today!**
+
+---
+**Last updated:** 2026-09-08 08:36:39 UTC
